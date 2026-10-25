@@ -3,7 +3,7 @@
 **Backend & Full-Stack Developer.** I build backend systems that stay fast under pressure, and products people love using.
 
 
-**Currently:** Technology Coordinator @ SFU MISA · CS + Business @ SFU 
+**Currently:** Technology Coordinator @ SFU MISA · CS + Business @ SFU ·
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logoColor=white)
